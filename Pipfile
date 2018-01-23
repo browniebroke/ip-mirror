@@ -7,8 +7,8 @@ name = "pypi"
 
 [packages]
 
-locustio = "*"
-
 
 [dev-packages]
+
+locustio = "*"
 
